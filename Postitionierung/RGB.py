@@ -45,7 +45,6 @@ Aufgabe:
   
 Tipp: 
     - Benutze width() und height() um die Verschiebungen zu berechnen
-      
 """
 
 
