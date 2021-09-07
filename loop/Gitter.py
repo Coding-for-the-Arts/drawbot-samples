@@ -3,7 +3,7 @@ Gitter
 
 """
 
-size(300,300)
+newPage(300, 300)
 
 for i in range(0, width(), 10): 
     stroke(0)
