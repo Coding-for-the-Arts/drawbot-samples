@@ -6,8 +6,8 @@ Du kannst auch deine eigenen Funktionen schreiben.
 """
 
 def multiChar(c, n):
-    # liefert eine Zeichenkette aus
-    # n Wiederholungen des Zeichens l
+    # liefert eine Zeichenkette aus n Wiederholungen
+    # der Zeichenfolge c
      return c * n
 
 print(multiChar(3, "A"))

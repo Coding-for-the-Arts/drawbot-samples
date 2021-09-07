@@ -13,7 +13,7 @@ fill(1, 0, 0)
 oval(0, 0, 500, 500)
 
 """
-Mit der Funktion fill() stellst du die Füllfarbe ein. Ohne Angabe ist sie immer schwarz
+Mit der Funktion fill() stellst du die Füllfarbe ein. Ohne Angabe ist sie immer schwarz.
 
 fill(0) # schwarz
 fill(1) # weiss
