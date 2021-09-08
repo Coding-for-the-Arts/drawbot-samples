@@ -15,6 +15,9 @@ Frage:
 Aufgabe: 
     - Wie kannst du die Zweierreihe bis 10 auf der Konsole ausgeben?
     - Kannst du die Zweierreihe vom 15.- 22. Element ausgeben? 
+  
+Beachte, dass die Zeilen des Programms, die wiederholt ausgeführt werden,
+eingezogen sind.
 """
 
 # # Lösung

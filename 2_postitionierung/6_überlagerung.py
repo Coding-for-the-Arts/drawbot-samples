@@ -1,5 +1,5 @@
 """
-Translate
+Überlagerung
 """
 
 newPage(1000, 1000)
@@ -14,6 +14,5 @@ for i in range(10):
     rect(0, 0, 400, 300)
     
 """
-- Was macht Translate?
 - Füge auf einer Zeile zwischen translate() und rect() eine Rotation ein, z.B. rotate(-2)
 """

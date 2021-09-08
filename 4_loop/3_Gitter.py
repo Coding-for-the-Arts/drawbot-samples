@@ -1,6 +1,5 @@
 """
 Gitter
-
 """
 
 newPage(300, 300)

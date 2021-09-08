@@ -1,11 +1,11 @@
 """
-Translate und Rotate
+Einmitten und rotieren
 """
 
 newPage(1000, 1000)
 
-posX = width()/2
-posY = height()/2
+posX = width() / 2
+posY = height() / 2
 
 rectSide = 200
 

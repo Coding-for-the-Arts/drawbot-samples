@@ -14,11 +14,8 @@ else:
 fill(1)
 rect(0, 0, width(), height())
 
-
 fill(0)
 oval(width()/2-radius, height()/2-radius, radius*2, radius*2)
-
-
 
 """
 Frage: 

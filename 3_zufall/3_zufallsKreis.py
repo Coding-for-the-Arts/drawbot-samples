@@ -1,6 +1,4 @@
 """
-Zufallsgenerator
-
 Ein Kreis zufälliger Grösse an zufälliger Position.
 """
 

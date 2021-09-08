@@ -1,5 +1,5 @@
 """
-RGB-Quadrate
+Vier Quadrate in RGB
 
 Die Funktion translate() verschiebt den Nullpunkt des Koordinatensystems.
 """
@@ -10,33 +10,32 @@ x = 0
 y = 0
 dia = width() / 2
 
-
 fill(1, 0, 0)
 stroke(0)
 rect(x, y, dia, dia)
 
 # 1. Translate
-translate(30,30)
+translate(30, 30)
 
-fill(0,1,0)
+fill(0, 1, 0)
 rect(x, y, dia, dia)
 
 # 2. Translate
-translate(30,30)
+translate(30, 30)
 
-fill(0,0,1)
+fill(0, 0, 1)
 rect(x, y, dia, dia)
 
 # 3. Translate
-translate(30,30)
+translate(30, 30)
 
-fill(1,1,1)
+fill(1, 1, 1)
 rect(x, y, dia, dia)
 print("x: ", x, " y: ", y)
 
 """
 Fragen: 
-    - Warum haben x und y den Wert 0 auf Zeile 35? 
+    - Warum haben x und y auf Zeile 35 den Wert 0? 
     - Wie weit hat sich der Nullpunkt am Ende des Programms vom seinem Ursprung entfernt?
     
 Aufgabe: 
@@ -52,7 +51,7 @@ Tipp:
 # # Lösung
 
 # size(300,300)
-
+# newPage(300, 300)
 
 # dia = width()/2
 
