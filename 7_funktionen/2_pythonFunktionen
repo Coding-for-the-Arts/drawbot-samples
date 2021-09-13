@@ -1,5 +1,5 @@
 """
-Funktionen, die es auch ausserhalb von DrawBot gibt
+Python-Funktionen
 """
 
 for i in range(10):

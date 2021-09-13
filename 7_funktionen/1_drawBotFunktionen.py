@@ -1,5 +1,5 @@
 """
-Output als Datei speichern
+DrawBot-Funktionen
 """
 
 newPage("1000, 1000")
