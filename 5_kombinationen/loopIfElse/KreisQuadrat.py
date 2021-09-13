@@ -19,15 +19,15 @@ for i in range(step):
 Frage: 
     - Was geschieht nach if ...?
     - Was geschieht wenn du den Wert zu 'False' änderst? 
-    - Was geschieht wenn du den Wert zu 'i>14' änderst?
+    - Was geschieht wenn statt 'True' zu 'i > 14' schreibst?
 
 Aufgabe: 
-    - Ändere den Code so ab, dass jeder zweite Kreis 
-      zu einem Quadrat wird
+    - Ändere den Code so, dass jeder zweite Kreis 
+      zu einem Quadrat wird.
     
 Tipp: 
-    - Mit dem Operator % (Modulo) kann man herausfinden ob eine Zahl 
-      gerade oder ungerade ist. 
+    - Mit dem Operator % (Modulo) kannst du herausfinden,
+      ob eine Zahl gerade oder ungerade ist. 
       Bsp. 9%3 == 0    -> TRUE    9 lässt sich durch 3 teilen 
            5%3 == 0    -> FALSE   5 lässt sich nicht durch 3 teilen 
                      
@@ -38,7 +38,6 @@ Bemerkung:
            print(num1)      -> 5.9
            num2 = int(num1)  
            print(num2)      -> 5      
-   
 """
 
 # # Lösung:
