@@ -9,6 +9,8 @@ def circle(x, y, dia):
   # mit Durchmesser dia
   oval(x, y, dia, dia)
 
+newPage(1000, 1000)
+circle(width()/2, height()/2, 200)
 """
 Der Gewinn durch diese Funktion ist nicht so gross, aber immerhin:
 du musst den Durchmesser nur noch einmal angeben, statt zweimal,
