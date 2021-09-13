@@ -17,11 +17,8 @@ for i in range (200):
 """
 Aufgabe: 
     - Platziere ein paar zufällig farbige Planeten am Nachthimmel
-    - Was passiert, wenn du Zeile 14 zu oval(dia, dia, dia, dia) änderst? 
+    - Was passiert, wenn du Zeile 13 zu oval(dia, dia, dia, dia) änderst? 
     - Warum braucht es für die x- und y-Position seperate Zufallswerte?
-    
-Bemerkung: 
-    - random() liefert einen Wert zwischen 0.0 und 1.0, bsp. 0.32123...
 """
     
     
