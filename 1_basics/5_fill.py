@@ -1,7 +1,8 @@
 """
 Hintergrundfarbe
 
-Die Funktionen width() und height() liefern die Breite/Höhe der Fläche.
+Zeile 10: Die Funktionen width() und height() liefern die Breite/Höhe der Fläche.
+Beim Ausführen des Programms werden sie mit diesen Werten ersetzt.
 """
 
 newPage("A4Landscape")

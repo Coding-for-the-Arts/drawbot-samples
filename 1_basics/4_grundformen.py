@@ -14,12 +14,11 @@ stroke(0) # Linienfarbe Schwarz
 line((300, 300), (400, 700))
 
 """
-- Klicke auf «run» (cmd r)
-- Ändere die Werte in den Klammern und klicke auf «run» (cmd r)
-- Was bedeuten die Werte in den Klammern?
-- Wähle einen Wert aus, drücke die cmd-Taste und drücke/ziehe am Trackpad nach links/rechts.
+- Füge noch mehr Grundformen hinzu.
+- Ändere die Werte, indem du die cmd-Taste und drückst
+  und am Trackpad nach links/rechts ziehst.
 
 Terminologie:
-    - Funktion
-    - Argumente
+    - «Funktionen» erkennst du an ihren Klammern.
+    - «Argumente» heissen die Werte in den Klammern.
 """
