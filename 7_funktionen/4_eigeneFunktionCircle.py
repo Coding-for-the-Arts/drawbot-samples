@@ -5,9 +5,9 @@ Funktionen können dir helfen, Problemstellungen zu vereinfachen.
 """
 
 def circle(x, y, dia):
-  # zeichnet einen Kreis an Position x/y
-  # mit Durchmesser dia
-  oval(x, y, dia, dia)
+    # zeichnet einen Kreis an Position x/y
+    # mit Durchmesser dia
+    oval(x, y, dia, dia)
 
 newPage(1000, 1000)
 circle(width()/2, height()/2, 200)

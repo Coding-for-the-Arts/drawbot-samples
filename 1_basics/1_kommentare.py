@@ -5,7 +5,7 @@ die nicht ausgeführt werden. Das
 heisst «Kommentar»
 """
 
-# Mit der Raute kannst du eine einzelne Zeile «deaktiviere»
+# Mit der Raute kannst du eine einzelne Zeile «deaktivieren».
 
 """
 - Mit Kommentaren kannst du Notizen in deine Programme

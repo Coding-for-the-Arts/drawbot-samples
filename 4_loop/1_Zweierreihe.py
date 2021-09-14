@@ -5,7 +5,7 @@ Dieses Programm zeichnet nichts auf die Fläche, sondern schreibt in die Konsole
 """
 
 for i in range(1, 4):
-    print(i, 'Element:')    
+    print(i, 'Element:')
     print("...")
    
 """

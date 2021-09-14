@@ -9,7 +9,7 @@ randomValue = random()
 print("Dieser Text wird immer in die Konsole geschrieben.")
 
 if randomValue > 0.5:
-  print("Dieser Text wird nur mit 50%-iger Wahrscheinlichkeit in die Konsole geschrieben.")
+    print("Dieser Text wird nur mit 50%-iger Wahrscheinlichkeit in die Konsole geschrieben.")
 
 """
 Mit "if" wird eine Bedingung formuliert, die durch den Computer evaluiert werden kann.

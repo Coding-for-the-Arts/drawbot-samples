@@ -5,12 +5,12 @@ If-Else: Kreis oder Quadrat?
 newPage(300, 300)
 
 diameter = 20
-middle = height()/2
-step = int(width()/diameter)
+middle = height() / 2
+step = int(width() / diameter)
 
 for i in range(step):
     if True:
-        oval(diameter*i, middle, diameter, diameter)
+        oval(diameter * i, middle, diameter, diameter)
     else: 
         print("False")
 

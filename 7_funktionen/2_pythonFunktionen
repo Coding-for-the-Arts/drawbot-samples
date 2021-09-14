@@ -3,8 +3,8 @@ Python-Funktionen
 """
 
 for i in range(10):
-  newRandomValue = random()
-  print(newRandomValue)
+    newRandomValue = random()
+    print(newRandomValue)
 
 """
 range(), random() und print() sind Funktionen,
