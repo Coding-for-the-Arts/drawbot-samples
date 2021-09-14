@@ -6,7 +6,7 @@ Eine Sammlung von Scripts für [DrawBot](https://drawbot.com) als Starthilfe fü
 
 - Finde und drücke oben rechts den grünen Knopf «Code», wähle die unterste Option «Download ZIP».
 - Entpacke das Zip.
-- Wähle im Finder eine einzelne Python-Datei (Endung `.py`) und öffne die Informationen: `cmd i`` (siehe Bild)
+- Wähle im Finder eine einzelne Python-Datei (Endung `.py`) und öffne die Informationen: `cmd i` (siehe Bild)
 - Klicke auf *Öffnen mit* und wähle **DrawBot.app».
 - Klicke auf **Alle ändern**
 - Jetzt kannst du loslegen.
