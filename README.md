@@ -32,3 +32,11 @@ Eine Sammlung von Scripts für [DrawBot](https://drawbot.com) als Starthilfe fü
 ## TL;DR
 
 Wenn du schon etwas Erfahrung mit DrawBot hast,  beginne direkt mit dem Ordner `6_kombinationen`.
+
+## Links
+
+- DrawBot Dokumentation und Download: [drawbot.com](https://drawbot.com)
+- DrawBot Forum: [forum.drawbot.com](https://forum.drawbot.com)
+- DrawBot Twitter: [twitter.com/drawbotapp](https://twitter.com/drawbotapp)
+- Roberto Arista, Python for Designers: [pythonfordesigners.com/](https://pythonfordesigners.com/)
+- Andy Clymer, Getting Started with DrawBot: [learn.adafruit.com/getting-started-with-drawbot](https://learn.adafruit.com/getting-started-with-drawbot)
