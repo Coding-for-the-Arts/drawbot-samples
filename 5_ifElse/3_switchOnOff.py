@@ -37,26 +37,3 @@ Aufgabe:
        Tipp: Verwende einen Boolean (True/False) als Wert
 
 """
-
-
-
-
-# # Lösung
-# switch = False
-# radius = 20
-
-# newPage(100, 100)
-
-# if (switch):
-#     background = 0
-#     figure = 1
-# else:
-#     background = 1
-#     figure = 0
-
-# fill(background)
-# rect(0, 0, width(), height())
-
-
-# fill(figure)
-# oval(width()/2-radius, height()/2-radius, radius*2, radius*2)

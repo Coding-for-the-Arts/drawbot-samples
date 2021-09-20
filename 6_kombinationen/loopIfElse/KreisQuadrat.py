@@ -39,10 +39,3 @@ Bemerkung:
            num2 = int(num1)  
            print(num2)      -> 5      
 """
-
-# # Lösung:
-# for i in range(step):
-#     if (i%2 == 0):
-#          oval(diameter*i, middle, diameter, diameter)
-#     else: 
-#         rect(diameter*i, middle, diameter, diameter)

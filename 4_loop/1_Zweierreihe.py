@@ -19,8 +19,3 @@ Aufgabe:
 Beachte, dass die Zeilen des Programms, die wiederholt ausgeführt werden,
 eingezogen sind.
 """
-
-# # Lösung
-# for i in range(1,4):
-#     print(i,'Element:')    
-#     print(2*i)
